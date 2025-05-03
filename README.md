@@ -31,9 +31,19 @@ The initial translation from MATLAB to Python and subsequent refinements for thi
 
 ## Screenshot
 
-<!-- Add a screenshot or GIF demonstrating the tool in action -->
-<!-- Example: ![Digitizer Screenshot](docs/screenshot.png) -->
-*(Consider adding a visual example here)*
+Here's a visual demonstration of the tool in action:
+
+**1. Initial Plot Image Loaded:**
+The user starts by loading the target image file into the digitizer window.
+
+![Initial plot image before digitization](https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png)
+
+---
+
+**2. Axis & Data Points Selected:**
+After defining the origin (green marker), X-axis point (blue marker), Y-axis point (red marker), and clicking on several data points (small red dots), the image might look like this just before finishing the acquisition and saving the extracted data. The GUI prompts (red text overlay) guide the user through each step.
+
+![Plot image after selecting axis points and data points](https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1_data_captured.png)
 
 ## Requirements
 
