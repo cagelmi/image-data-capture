@@ -71,7 +71,6 @@ After defining the origin (green marker), X-axis point (blue marker), Y-axis poi
     ```bash
     python image_digitizer.py
     ```
-    *(Replace `image_digitizer.py` with the actual name you saved the script as).*
 2.  A **file dialog** will appear. Select the image file containing the plot you want to digitize.
 3.  The image will be displayed in a Matplotlib window.
 4.  **Follow the red instruction text** displayed at the top of the plot window:
