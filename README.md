@@ -1,6 +1,6 @@
 # Python Image Data Digitizer
 
-A Python tool with a graphical user interface (GUI) to extract numerical data points (X, Y coordinates) from images of plots or graphs.
+A Python-based tool with a graphical user interface (GUI) designed to extract numerical data points (X, Y coordinates) from plot or graph images when the original dataset is unavailable.
 
 ## Inspiration and Development
 
