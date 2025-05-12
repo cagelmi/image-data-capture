@@ -9,6 +9,11 @@ their corresponding X, Y data coordinates.
 
 The extracted data is saved to both a text file (with metadata header) and
 an Excel file (.xlsx).
+
+Author: Claudio Gelmi @ https://github.com/cagelmi
+Date: 2025-05-03
+(This program was developed with the assistance of Google's Gemini 2.5 Pro model.)
+
 """
 
 # --- Standard Library Imports ---
