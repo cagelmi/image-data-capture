@@ -9,7 +9,7 @@ This project is inspired by the functionality of the excellent `digitize2.m` MAT
 **Citation for original MATLAB script:**
 > Anil (2025). digitize2.m (https://www.mathworks.com/matlabcentral/fileexchange/928-digitize2-m), MATLAB Central File Exchange. Retrieved May 2, 2025.
 
-The initial translation from MATLAB to Python and subsequent refinements for this project were developed with the assistance of Google's Gemini AI model (version 2.5 Pro Preview 03-25).
+The initial translation from MATLAB to Python and subsequent refinements for this project were developed with the assistance of Google's Gemini 2.5 Pro Preview.
 
 ## Features
 
