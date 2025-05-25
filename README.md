@@ -69,7 +69,7 @@ After defining the origin (green marker), X-axis point (blue marker), Y-axis poi
         ```
     *   Using Conda:
         ```bash
-        conda create --name image_digitizer_env python=3.9 # Or your preferred version
+        conda create --name image_digitizer_env python=3.10 # Or your preferred version
         conda activate image_digitizer_env
         ```
 4.  **Install the required libraries:** Navigate to the project directory in your terminal (with the virtual environment activated) and run:
