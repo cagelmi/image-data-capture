@@ -59,11 +59,23 @@ After defining the origin (green marker), X-axis point (blue marker), Y-axis poi
 
 1.  **Ensure Python 3 is installed.** You can download it from [python.org](https://www.python.org/).
 2.  **Clone or download this repository.**
-3.  **Install the required libraries:** Open your terminal or command prompt, navigate to the project directory, and run:
+3.  **(Recommended) Create and activate a virtual environment:**
+    *   Using standard Python `venv`:
+        ```bash
+        python -m venv venv
+        source venv/bin/activate  # On Linux/macOS
+        venv\Scripts\activate.bat   # On Windows CMD
+        venv\Scripts\Activate.ps1 # On Windows PowerShell
+        ```
+    *   Using Conda:
+        ```bash
+        conda create --name image_digitizer_env python=3.9 # Or your preferred version
+        conda activate image_digitizer_env
+        ```
+4.  **Install the required libraries:** Navigate to the project directory in your terminal (with the virtual environment activated) and run:
     ```bash
-    pip install matplotlib numpy Pillow pandas openpyxl
+    pip install -r requirements.txt
     ```
-    *(You might need to use `pip3` depending on your Python installation).*
 
 ## Usage
 
