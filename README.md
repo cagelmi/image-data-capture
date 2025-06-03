@@ -36,7 +36,7 @@ Here's a visual demonstration of the tool in action:
 **1. Initial Plot Image Loaded:**
 The user starts by loading the target image file into the digitizer window.
 
-<img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png" alt="Plot image before selecting axis points and data points" width="500"/>
+<img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png" alt="Plot image before selecting axis points and data points" width="400"/>
 
 ---
 
