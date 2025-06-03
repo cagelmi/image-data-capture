@@ -36,14 +36,14 @@ Here's a visual demonstration of the tool in action:
 **1. Initial Plot Image Loaded:**
 The user starts by loading the target image file into the digitizer window.
 
-![Initial plot image before digitization](https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png)
+<img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png" alt="Plot image before selecting axis points and data points" width="500"/>
 
 ---
 
 **2. Axis & Data Points Selected:**
 After defining the origin (green marker), X-axis point (blue marker), Y-axis point (red marker), and clicking on several data points (small red dots), the image might look like this just before finishing the acquisition and saving the extracted data. The GUI prompts (red text overlay) guide the user through each step.
 
-<img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1_data_captured.png" alt="Plot image after selecting axis points and data points" width="700"/>
+<img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1_data_captured.png" alt="Plot image after selecting axis points and data points" width="500"/>
 
 ## Requirements
 
