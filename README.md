@@ -38,8 +38,6 @@ The user starts by loading the target image file into the digitizer window.
 
 <img src="https://raw.githubusercontent.com/cagelmi/image-data-capture/main/images/fig1.png" alt="Plot image before selecting axis points and data points" width="400"/>
 
----
-
 **2. Axis & Data Points Selected:**
 After defining the origin (green marker), X-axis point (blue marker), Y-axis point (red marker), and clicking on several data points (small red dots), the image might look like this just before finishing the acquisition and saving the extracted data. The GUI prompts (red text overlay) guide the user through each step.
 
